@@ -5,7 +5,7 @@ Generated with command:
 Hosted with:
 ```
 <VirtualHost *:80>
-	      ServerName	schema.geolink.org
+	ServerName	schema.geolink.org
 
         CustomLog       "/var/log/httpd/access.log" combined
         ErrorLog        "/var/log/httpd/error.log"
