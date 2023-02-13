@@ -1,3 +1,8 @@
+# schema.geolink.org
+
+[View schema.geolink.org](/mirror/)
+
+
 
 Generated with command:
 ```docker run -it -v $(pwd):/app -e HTTRACK_URI=http://schema.geolink.org/index.html ralfbs/httrack:latest```
